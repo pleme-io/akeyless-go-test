@@ -19,7 +19,7 @@
         pname = "akeyless-go-test";
         version = "0.0.0-dev";
         src = self;
-        vendorHash = "sha256-kcw2Wy9wn4Nvgg56zRhLXY2XVZiV7FuyvQS/hQI2nIs="; # COMPUTING
+        vendorHash = "sha256-kcw2Wy9wn4Nvgg56zRhLXY2XVZiV7FuyvQS/hQI2nIs=";
       };
 
       devShells.default = pkgs.mkShellNoCC {
